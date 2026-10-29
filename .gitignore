@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Dependencies and logs, in case a build tool is added later
+node_modules/
+npm-debug.log*
